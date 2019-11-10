@@ -1,16 +1,18 @@
-def roll_call_dwarves = ["Doc","Dopey","Bashful","Grumpy"]
-    roll_call_dwarves.each do | roll_call_dwarves|
-     puts "Here #{roll_call_dwarves}!"
+ dwarf = ["Doc","Dopey","Bashful","Grumpy"]
+   def dwarf_roll_calls(dwarf)
+     dwarf.each do |dwarf|
+     puts "Here #{dwarf}!"
   end
 end
 
-def summon_captain_planet = ["earth", "wind", "fire", "water", "heart"]
-  summon_captain_planet.each do |summon_captain_planet|
-    puts "Calling #{summon_captain_planet}!".upcase
+planeteer calls = ["Earth!","Wind!", "Fire!","Water", "Heart!"]
+  def summon_captain_planet_calls(planteer_calls)
+    
    end 
 end
 
 def short_words = ["puff", "go", "two"]
+    
   # Your code here
 end
 
