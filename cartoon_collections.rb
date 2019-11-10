@@ -7,11 +7,13 @@ end
 
 planeteer calls = ["Earth!","Wind!", "Fire!","Water", "Heart!"]
   def summon_captain_planet_calls(planteer_calls)
-   (planteer_calls.each 
+   (planteer_calls.each do |planteer_calls|upcase
+   print "I_am_captain_america #{planteer_calls}!"
    end 
 end
 
-def short_words = ["puff", "go", "two"]
+ short_words = ["puff", "go", "two"]
+  def 
     
   # Your code here
 end
