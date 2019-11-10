@@ -5,7 +5,7 @@ def roll_call_dwarves = ["Doc","Dopey","Bashful","Grumpy"]
 end
 
 def summon_captain_planet = ["earth", "wind", "fire", "water", "heart"]
-  summon_captain_planet.each do |
+  summon_captain_planet.each do |summon_captain_planet|
     
 end
 
