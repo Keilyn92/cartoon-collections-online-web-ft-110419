@@ -7,10 +7,10 @@ end
 def summon_captain_planet = ["earth", "wind", "fire", "water", "heart"]
   summon_captain_planet.each do |summon_captain_planet|
     puts "Calling #{summon_captain_planet}!".upcase
-    
+   end 
 end
 
-def long_planeteer_calls# code an argument here
+def short_words = ["puff", "go", "two"]
   # Your code here
 end
 
