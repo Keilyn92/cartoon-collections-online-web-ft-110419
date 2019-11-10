@@ -7,7 +7,7 @@ end
 
 planeteer calls = ["Earth!","Wind!", "Fire!","Water", "Heart!"]
   def summon_captain_planet_calls(planteer_calls)
-    
+   (planteer_calls.each 
    end 
 end
 
