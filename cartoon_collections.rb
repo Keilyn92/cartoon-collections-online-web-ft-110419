@@ -1,9 +1,11 @@
-def roll_call_dwarves# code an argument here
-  # Your code here
+def roll_call_dwarves = ["Doc","Dopey","Bashful","Grumpy"]
+    roll_call_dwarves.each do | roll_call_dwarves|
+     puts "Here #{roll_call_dwarves}!"
+  end
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
+def summon_captain_planet = ["earth", "wind", "fire", "water", "heart"]
+    
 end
 
 def long_planeteer_calls# code an argument here
