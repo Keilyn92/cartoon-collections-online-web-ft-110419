@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet = ["earth", "wind", "fire", "water", "heart"]
   summon_captain_planet.each do |summon_captain_planet|
-    puts "Calling #{"
+    puts "Calling #{summon_captain_planet}!".upcase
     
 end
 
